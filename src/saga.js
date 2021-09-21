@@ -16,7 +16,7 @@ function fetchDog(){
     });
 }
 
-//once the above trigger happens this below gen function gets triggered
+//once the above trigger happens this below gen function gets triggered cool
 
 function* workerSaga(){
     try{
